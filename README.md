@@ -1,1 +1,1 @@
-# Learn-Management-System
+# Learning-Management-System
